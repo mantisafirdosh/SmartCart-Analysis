@@ -1,3 +1,5 @@
+***SmartChart_C;ustering_System***
+
 **Data Preprocessing & Feature Engineering**: Cleans raw customer purchase histories by handling missing values, filtering multivariate outliers, and engineering behavioral metrics like total spending and customer tenure.
 **Dimensionality Reduction**: Implements Principal Component Analysis (PCA) to compress high-dimensional consumer attributes into orthogonal components, retaining maximum explained variance.
 **Optimal Cluster Determination***: Utilizes the Elbow Method (via KneeLocator for WCSS) alongside Silhouette Score optimization to mathematically identify the ideal number of customer segments.
