@@ -1,4 +1,4 @@
-***SmartChart_Clustering_System***
+***SmartCart_Clustering_System***
 
 **Data Preprocessing & Feature Engineering**: Cleans raw customer purchase histories by handling missing values, filtering multivariate outliers, and engineering behavioral metrics like total spending and customer tenure.
 
